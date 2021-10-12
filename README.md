@@ -1,4 +1,12 @@
 # index
+Walidacja strony html- Proces sprawdzenia poprawności składni dokumentu HTML
+<br>
+Walidator-program sprawdzający poprawność składni dokumentu HTML
+<A HREF="https://validator.w3.org/unicorn/?ucn_lang=pl"> Tutaj jest link do Walidatora </A>
+
+
+
+
 <h1 ALIGN=right >Dowcip o jasiu</h1>
 <FIELDSET>
  <IMG SRC="https://thumbs.gfycat.com/LazyLightheartedCrossbill-max-1mb.gif" ALIGN=right BORDER=41 WIDTH=131 HEIGHT=127 ALT="grafika1-Redzimski">
@@ -36,3 +44,4 @@ Nauczyciel napisał na tablicy wzór chemiczny i otworzył dziennik:
 <p>- Dziecko, wypluj to szybko! - mówi nauczyciel. - To kwas siarkowy...
 </FIELDSET>
 <HR SIZE=5 WIDTH=75% align=center color=yellow>
+ 
