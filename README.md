@@ -14,10 +14,10 @@ Walidator-program sprawdzający poprawność składni dokumentu HTML
     Dowcip i mężu i żonie 
  <br>
 Przychodzi Jasiu z poparzoną reką i nogą...
-<p>- Jasiu! Co ci się stało w rękę? - pyta siostra
-<p>- Prąd mnie kopnął.
-<p>- A w nogę?
-<p>- Chciałem mu oddać...!!
+<br>- Jasiu! Co ci się stało w rękę? - pyta siostra
+<br>- Prąd mnie kopnął.
+<br>- A w nogę?
+<br>- Chciałem mu oddać...!!
 </FIELDSET>
 <HR SIZE=5 WIDTH=60% ALIGN=CENTER color=red>
 <h1 ALIGN=right></h1>
@@ -26,11 +26,11 @@ Przychodzi Jasiu z poparzoną reką i nogą...
  <IMG SRC="https://gifyagusi.pl/img/2018/08/30/obrazek-gif/uczen/ucze%C5%84%20z%20teczk%C4%85.gif" ALIGN=right BORDER=0 WIDTH=127 HEIGHT=131 ALT="grafika3-Redzimski">Dowcip o studencie 
  <br>
  Przychodzi student na egzamin z historii transportu.
-<p>- Proszę podać ile wynosiła długość linii kolejowych w Polsce.
-<p>Student zdębiał ale pyta:
-<p>- A w którym roku?
-<p>- Wie pan co, jest mi to obojętne...
-<p>- Rok 1493, zero kilometrów!</p></br>
+<br>- Proszę podać ile wynosiła długość linii kolejowych w Polsce.
+<br>Student zdębiał ale pyta:
+<br>- A w którym roku?
+<br>- Wie pan co, jest mi to obojętne...
+<br>- Rok 1493, zero kilometrów!</p></br>
 </FIELDSET>
 <HR SIZE=7 WIDTH=80% align=right color=black>
 <FIELDSET>
@@ -39,9 +39,9 @@ Przychodzi Jasiu z poparzoną reką i nogą...
 Dowcip o nauczycielu
  <br>
 Nauczyciel napisał na tablicy wzór chemiczny i otworzył dziennik:
-<p>- Małgosiu, co to za wzór?
-<p>- To jest... No, mam to na końcu języka...
-<p>- Dziecko, wypluj to szybko! - mówi nauczyciel. - To kwas siarkowy...
+<br>- Małgosiu, co to za wzór?
+<br>- To jest... No, mam to na końcu języka...
+<br>- Dziecko, wypluj to szybko! - mówi nauczyciel. - To kwas siarkowy...
 </FIELDSET>
 <HR SIZE=5 WIDTH=75% align=center color=yellow>
  
