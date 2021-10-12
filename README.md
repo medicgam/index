@@ -11,7 +11,7 @@ Walidator-program sprawdzający poprawność składni dokumentu HTML
 <FIELDSET>
  <IMG SRC="https://thumbs.gfycat.com/LazyLightheartedCrossbill-max-1mb.gif" ALIGN=right BORDER=41 WIDTH=131 HEIGHT=127 ALT="grafika1-Redzimski">
    <IMG SRC="https://i1.kwejk.pl/k/obrazki/2011/08/d05fc89fe948f485fe7911fc33923f71.gif" ALIGN=left BORDER=18 WIDTH=108 HEIGHT=109 ALT="grafika2-Redzimski">
-   <LEGEND> Dowcip i mężu i żonie </LEGEND> 
+    Dowcip i mężu i żonie 
  <br>
 Przychodzi Jasiu z poparzoną reką i nogą...
 <p>- Jasiu! Co ci się stało w rękę? - pyta siostra
